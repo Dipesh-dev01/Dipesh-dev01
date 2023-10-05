@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dipesh-dev01
-- 👀 I’m interested in AI but
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on any thing related to flutter 
+- 👀 I’m interested in AI and VR
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on any thing related to web development 
 - 📫 How to reach me ...
 
 <!---
